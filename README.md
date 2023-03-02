@@ -1,6 +1,5 @@
 # What I'm Doing
-I'm revitalising a probably decade old machine by installing ProxMox, PFSense, and several other softwares on it to have 
-several virtual machines serving various types of content across the school.
+I'm configuring an older server for my school for use by several clubs and groups. I'm doing this by installing ProxMox to virtualize and contain each different group's software. There will be several virtual machines serving various types of content across the school. pfSense will be used to manage the networking of the box.
 
 The server is a [ProLiant DL380 Gen9](https://techlibrary.hpe.com/us/en/mobile/iss/index.aspx?product=DL380_Gen9).
 
